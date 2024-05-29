@@ -2,7 +2,7 @@
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://watch.tonton.com.my/
-#KODIPROP:inputstream.adaptive.license_key=553d40480ecc4bcf841514cead1a0c90:6adc3bc66c814deeef3208e39767212f
+#KODIPROP:inputstream.adaptive.license_key=6adc3bc66c814deeef3208e39767212f:553d40480ecc4bcf841514cead1a0c90
 #EXTINF:-1 type="series" tvg-logo="https://headend-api.tonton.com.my/v210/imageHelper.php?id=6495720:377:STILL:PORTRAIT" group-title="VOD MELAYU",Perempuan Ilmu Hitam 2024 E01
 https://vod.tonton.com.my/vod/379/6495718/playlist_wifi_high.mpd
 
