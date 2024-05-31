@@ -12,7 +12,7 @@ https://vod.tonton.com.my/vod/379/6495718/playlist_wifi_high.mpd
 #EXTVLCOPT:http-referrer=https://watch.tonton.com.my/
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct","k":"GpwsS7Tkvnk5uCFt+vOqgw","kid":"dN9kD7D0RrioaHfv3Ut43A" }],"type":"temporary"}
 #EXTINF:-1 type="series" tvg-logo="https://headend-api.tonton.com.my/v210/imageHelper.php?id=6495720:377:STILL:PORTRAIT" group-title="VOD MELAYU",Perempuan Ilmu Hitam 2024 E02
-https://vod.tonton.com.my/vod/379/6495712/playlist_wifi_high.mpd
+https://vod.tonton.com.my/vod/379/6495712/playlist.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -20,7 +20,7 @@ https://vod.tonton.com.my/vod/379/6495712/playlist_wifi_high.mpd
 #EXTVLCOPT:http-referrer=https://watch.tonton.com.my/
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct","k":"shOqSH1/kb76ELgHKSRKdA","kid":"nwLU0XO0Tw+i9IVxjiyDYw" }],"type":"temporary"}
 #EXTINF:-1 type="series" tvg-logo="https://headend-api.tonton.com.my/v210/imageHelper.php?id=6495720:377:STILL:PORTRAIT" group-title="VOD MELAYU",Perempuan Ilmu Hitam 2024 E03
-https://vod.tonton.com.my/vod/379/6495722/playlist_wifi_high.mpd
+https://vod.tonton.com.my/vod/379/6495722/playlist.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
