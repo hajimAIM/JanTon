@@ -1,3 +1,232 @@
+###[Kill Me Love Me][astro.com.my_47_PACK0000000000518385]###
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct","k":"DhT9tgsCuFIm/GsyEpiNsA","kid":"5fI07iLeXDIcu79Y3NgcEA" }],"type":"temporary"}
+#EXTINF:-1 type="series" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KPLWI_p_IVP_PORT_750x1126_7E8F1_20241028_9926.jpg" group-title="Vod Melayu",Kill Me Love Me E01
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/c7be282f-38ef-5c9f-a326-2c50fdcdf29b/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct","k":"0b7SfN+NYy55PyfWPZBfUA","kid":"c1kP22SaqgI0HhlhhgfPEA" }],"type":"temporary"}
+#EXTINF:-1 type="series" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KPLWI_p_IVP_PORT_750x1126_7E8F1_20241028_9926.jpg" group-title="Vod Melayu",Kill Me Love Me E02
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/72f1ea74-6bc8-58fa-9900-3be4a3ff76da/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct","k":"E1VbV2KSH8yp5cn9p3/PFw","kid":"Q+tZMfhqoyy95kcpAl6qEA" }],"type":"temporary"}
+#EXTINF:-1 type="series" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KPLWI_p_IVP_PORT_750x1126_7E8F1_20241028_9926.jpg" group-title="Vod Melayu",Kill Me Love Me E03
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/c7476e9f-aa4c-5047-809f-0328f40179ba/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct","k":"lEDGh5s7zIURN8jFCsa68Q","kid":"L48u6EYpisncDWXY+GrnEA" }],"type":"temporary"}
+#EXTINF:-1 type="series" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KPLWI_p_IVP_PORT_750x1126_7E8F1_20241028_9926.jpg" group-title="Vod Melayu",Kill Me Love Me E04
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/d1d1dd78-09d4-5c16-998a-108d7d6beb73/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct","k":"IoRTcIpFTiXYnY2P9MAqog","kid":"G/AzBBNwH/gUYfL7Ql4HEA" }],"type":"temporary"}
+#EXTINF:-1 type="series" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KPLWI_p_IVP_PORT_750x1126_7E8F1_20241028_9926.jpg" group-title="Vod Melayu",Kill Me Love Me E05
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/9ce3ea7d-6852-5e08-868e-693b7c483904/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct","k":"KWtpjkJ2IyUy5n5nRur4xA","kid":"oL35wFQHEYCKyFdx2R3OEA" }],"type":"temporary"}
+#EXTINF:-1 type="series" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KPLWI_p_IVP_PORT_750x1126_7E8F1_20241028_9926.jpg" group-title="Vod Melayu",Kill Me Love Me E06
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/3f4f8234-6129-5ef6-8969-aa17e01e7a5a/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct","k":"92vvm2e627zdjkKAK1TS+w","kid":"gzPc92toZ0cQVbyuR075EA" }],"type":"temporary"}
+#EXTINF:-1 type="series" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KPLWI_p_IVP_PORT_750x1126_7E8F1_20241028_9926.jpg" group-title="Vod Melayu",Kill Me Love Me E07
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/06a3d0ef-2ef7-5de7-a8bd-b85a0ddba9f0/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct","k":"H7VOa/52oTUU18pHmyC5Og","kid":"R+iBp692x7L2aRuyMAG8EA" }],"type":"temporary"}
+#EXTINF:-1 type="series" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KPLWI_p_IVP_PORT_750x1126_7E8F1_20241028_9926.jpg" group-title="Vod Melayu",Kill Me Love Me E08
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/b7989ab5-25b6-58f0-b201-15f7164cf3bc/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct","k":"NPnYolo4d14Fb6B9YhRQXw","kid":"8g1JCSRJ4i9A8AG8Ugj8EA" }],"type":"temporary"}
+#EXTINF:-1 type="series" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KPLWI_p_IVP_PORT_750x1126_7E8F1_20241028_9926.jpg" group-title="Vod Melayu",Kill Me Love Me E09
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/9141f819-f153-564b-a066-ebc17eb2c3f4/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct","k":"lIJDN2xgjpEeb1rv6syLWA","kid":"eDQXN0hLVKCxLZjAnSXsEA" }],"type":"temporary"}
+#EXTINF:-1 type="series" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KPLWI_p_IVP_PORT_750x1126_7E8F1_20241028_9926.jpg" group-title="Vod Melayu",Kill Me Love Me E10
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/2e09539b-1e63-5787-b3ad-1c27c672f966/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct","k":"wDU+XcvLliw5tlSf4IfAcA","kid":"c7tGY15w5yz5j70q0Ab2EA" }],"type":"temporary"}
+#EXTINF:-1 type="series" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KPLWI_p_IVP_PORT_750x1126_7E8F1_20241028_9926.jpg" group-title="Vod Melayu",Kill Me Love Me E11
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/85bc3f2d-7f1a-5ed8-b021-d51f7b6a0dfb/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct","k":"5K1xCfoVEnASyddSbb6DGw","kid":"O3aEnjJy+yAaqI20RGj/EA" }],"type":"temporary"}
+#EXTINF:-1 type="series" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KPLWI_p_IVP_PORT_750x1126_7E8F1_20241028_9926.jpg" group-title="Vod Melayu",Kill Me Love Me E12
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/d9ed368c-de1e-5ef2-b4ba-72a7d94d9be4/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct","k":"Wwe/BDx8MFUDBp1A3oooGw","kid":"Tzv5Fd9IgwqQRbOjF2gaEA" }],"type":"temporary"}
+#EXTINF:-1 type="series" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KPLWI_p_IVP_PORT_750x1126_7E8F1_20241028_9926.jpg" group-title="Vod Melayu",Kill Me Love Me E13
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/40469981-f191-57ac-9595-7a2372a3bf55/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct","k":"NIzhI6VGrE15pkesZfy/tw","kid":"qzU03Dc8h9MOu4cSTLhsEA" }],"type":"temporary"}
+#EXTINF:-1 type="series" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KPLWI_p_IVP_PORT_750x1126_7E8F1_20241028_9926.jpg" group-title="Vod Melayu",Kill Me Love Me E14
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/62c8cffc-0c63-5db1-a285-321b8fd1eff4/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct","k":"OFNm9//bofnJDBP3uRss2A","kid":"4SHprf2HqQ1yPkcu0MJmEA" }],"type":"temporary"}
+#EXTINF:-1 type="series" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KPLWI_p_IVP_PORT_750x1126_7E8F1_20241028_9926.jpg" group-title="Vod Melayu",Kill Me Love Me E15
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/804b70ad-099b-5871-a7c9-79a0989f3fee/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct","k":"MIP1J78PY7XPa5ZkJtR4lA","kid":"jDl+9KpDcJr0Hn77YmCDEA" }],"type":"temporary"}
+#EXTINF:-1 type="series" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KPLWI_p_IVP_PORT_750x1126_7E8F1_20241028_9926.jpg" group-title="Vod Melayu",Kill Me Love Me E16
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/eb5b4a41-2ccf-5d9d-af3a-dcae79e4f4ec/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct","k":"HCzOwvt/xuc+sbt0n+XVeg","kid":"yJp502dvzBeAjVwqoKmEEA" }],"type":"temporary"}
+#EXTINF:-1 type="series" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KPLWI_p_IVP_PORT_750x1126_7E8F1_20241028_9926.jpg" group-title="Vod Melayu",Kill Me Love Me E17
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/d5799ff2-f13b-55ce-95fc-a7be51a1f38d/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct","k":"xA83QMfXPT6EM3Kp4ns7hg","kid":"dOnsFjg6VGofj1QdBYryEA" }],"type":"temporary"}
+#EXTINF:-1 type="series" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KPLWI_p_IVP_PORT_750x1126_7E8F1_20241028_9926.jpg" group-title="Vod Melayu",Kill Me Love Me E18
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/b87a46dd-cb43-5e3b-9996-76f76f9337c4/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct","k":"unJuCNPTojpPbz/L5OO+HQ","kid":"rdjICeQpIe+Y6Offz/65EA" }],"type":"temporary"}
+#EXTINF:-1 type="series" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KPLWI_p_IVP_PORT_750x1126_7E8F1_20241028_9926.jpg" group-title="Vod Melayu",Kill Me Love Me E19
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/6069b32e-8aad-59bf-af6d-8edcfabb25bc/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct","k":"fv9/Rs2JTGSMozYEBS/x2w","kid":"6Dbdw6ZixOQpV4RMqmjGEA" }],"type":"temporary"}
+#EXTINF:-1 type="series" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KPLWI_p_IVP_PORT_750x1126_7E8F1_20241028_9926.jpg" group-title="Vod Melayu",Kill Me Love Me E20
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/f813b26d-44ba-5af9-907f-194e0afc09b9/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct","k":"WP/T1VhUhFgxVaCOCQt5jQ","kid":"fBeOpzPy5KDm5dAFhQMXEA" }],"type":"temporary"}
+#EXTINF:-1 type="series" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KPLWI_p_IVP_PORT_750x1126_7E8F1_20241028_9926.jpg" group-title="Vod Melayu",Kill Me Love Me E21
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/8dc2cd86-c221-5c1a-8ddd-55c7886a2f37/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct","k":"hRWqNS7EXCt5oFSnX59zPw","kid":"ieF+erXmXonuJVmwv9zsEA" }],"type":"temporary"}
+#EXTINF:-1 type="series" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KPLWI_p_IVP_PORT_750x1126_7E8F1_20241028_9926.jpg" group-title="Vod Melayu",Kill Me Love Me E22
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/a73017e6-519e-52b1-8048-305edbce6d4d/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct","k":"AnDEnp/lN9BiKhcTBud1/A","kid":"6fD/sTCP+LLIwwOF/wkjEA" }],"type":"temporary"}
+#EXTINF:-1 type="series" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KPLWI_p_IVP_PORT_750x1126_7E8F1_20241028_9926.jpg" group-title="Vod Melayu",Kill Me Love Me E23
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/45e8d6c2-050a-510a-875c-63aa12a85c63/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct","k":"d2KxmR83pI0I23TMlHe1KQ","kid":"982Lys5h0sDCJRkHOx+FEA" }],"type":"temporary"}
+#EXTINF:-1 type="series" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KPLWI_p_IVP_PORT_750x1126_7E8F1_20241028_9926.jpg" group-title="Vod Melayu",Kill Me Love Me E24
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/e7d09bd1-d752-5be8-ae44-346349c0f3e5/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct","k":"VENLVZt4SoRezsCJHvA96w","kid":"At41adXOS5vZ0/iWZTR9EA" }],"type":"temporary"}
+#EXTINF:-1 type="series" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KPLWI_p_IVP_PORT_750x1126_7E8F1_20241028_9926.jpg" group-title="Vod Melayu",Kill Me Love Me E25
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/54f4847e-2039-5236-a609-b0285011fe53/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct","k":"ZHp45UySlruvudQbzNEe6w","kid":"jbb3VyOcjJOBhgdVcTFJEA" }],"type":"temporary"}
+#EXTINF:-1 type="series" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KPLWI_p_IVP_PORT_750x1126_7E8F1_20241028_9926.jpg" group-title="Vod Melayu",Kill Me Love Me E26
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/523485b9-56e3-5c54-9a1d-e0e3f760737f/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct","k":"Ap0wlOpZclPH0eoy7QWlTQ","kid":"l7eLbUssD7RldGqzpfLqEA" }],"type":"temporary"}
+#EXTINF:-1 type="series" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KPLWI_p_IVP_PORT_750x1126_7E8F1_20241028_9926.jpg" group-title="Vod Melayu",Kill Me Love Me E27
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/df09f182-5a55-504b-90cf-d6e056e9160a/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct","k":"Ai1hFZSoS92e5A4ifeqt8g","kid":"CUwzRLkVTJ8QCTmxRmpBEA" }],"type":"temporary"}
+#EXTINF:-1 type="series" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KPLWI_p_IVP_PORT_750x1126_7E8F1_20241028_9926.jpg" group-title="Vod Melayu",Kill Me Love Me E28
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/39e5b5dd-f447-56ca-bb4a-db67532edfb4/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct","k":"1+2/7Ycz/q/s1K1g7pEkBw","kid":"iyH/IDvh6JzcYzApMEQ/EA" }],"type":"temporary"}
+#EXTINF:-1 type="series" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KPLWI_p_IVP_PORT_750x1126_7E8F1_20241028_9926.jpg" group-title="Vod Melayu",Kill Me Love Me E29
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/31a71aaa-1d8f-5e41-b4dd-23fa0b2749a8/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct","k":"H4blVrLKXGy3BGytx+0rfw","kid":"Fro53PnYF2h/w7fYAvZFEA" }],"type":"temporary"}
+#EXTINF:-1 type="series" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KPLWI_p_IVP_PORT_750x1126_7E8F1_20241028_9926.jpg" group-title="Vod Melayu",Kill Me Love Me E30
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/75893a39-0799-5785-8fc3-d837b5dca1c4/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct","k":"QPreyNbfqUS+k5witZQrcA","kid":"b4rp/qlLL1QBckUVwgfzEA" }],"type":"temporary"}
+#EXTINF:-1 type="series" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KPLWI_p_IVP_PORT_750x1126_7E8F1_20241028_9926.jpg" group-title="Vod Melayu",Kill Me Love Me E31
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/9a0b961a-1efe-57ed-9331-3b5d2a7be8bd/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct","k":"KmXRMBEds94wETG6mPnG6w","kid":"kuv9MhXt61GcYQ/k5qyhEA" }],"type":"temporary"}
+#EXTINF:-1 type="series" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KPLWI_p_IVP_PORT_750x1126_7E8F1_20241028_9926.jpg" group-title="Vod Melayu",Kill Me Love Me E32
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/5c5d7460-c440-5abd-bbbe-aba59dafabfa/default_primary.mpd
+
+###[Kill Me Love Me][astro.com.my_47_PACK0000000000518385]###
+
+
 ###[Shiv Shakti][astro.com.my_47_PACK0000000000447500]###
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
