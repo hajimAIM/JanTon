@@ -1,3 +1,182 @@
+###[No Return][astro.com.my_47_PACK0000000000517046]###
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct","k":"3GLvPFTGvQWRJT6fLegDdw","kid":"jM+pHVZKjd7rcM23/XF2EA" }],"type":"temporary"}
+#EXTINF:-1 type="series" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KPKOL_p_IVP_PORT_750x1126_7E3B6_2024124_162942.jpg" group-title="Vod Melayu",No Return E01
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/75bda287-4a53-57bb-8366-ef2a1edfd19b/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct","k":"fCWR0NRim0qVqstAHNMLWw","kid":"0PvplXUtfYva0BlY3ITEEA" }],"type":"temporary"}
+#EXTINF:-1 type="series" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KPKOL_p_IVP_PORT_750x1126_7E3B6_2024124_162942.jpg" group-title="Vod Melayu",No Return E02
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/2f8432a3-50f5-5e62-84e2-2af3b4146995/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct","k":"p85sCCSFLcXb3vdfTMqF8Q","kid":"ktBGdOUBC2FJ5Y7HNTdCEA" }],"type":"temporary"}
+#EXTINF:-1 type="series" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KPKOL_p_IVP_PORT_750x1126_7E3B6_2024124_162942.jpg" group-title="Vod Melayu",No Return E03
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/bd549cda-50c9-5e8f-b466-f58260ea3826/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct","k":"dN1mHuy5Yd3MUoPUXvnFzg","kid":"4UG8wix2TrYOTA1hi7BQEA" }],"type":"temporary"}
+#EXTINF:-1 type="series" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KPKOL_p_IVP_PORT_750x1126_7E3B6_2024124_162942.jpg" group-title="Vod Melayu",No Return E04
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/b42457d4-b179-5ca0-b531-f2a34dbf090a/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct","k":"b+WQ1RgB+tFsCPgtw+ScWw","kid":"Y0nTw8++aS9h+S0D9mG0EA" }],"type":"temporary"}
+#EXTINF:-1 type="series" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KPKOL_p_IVP_PORT_750x1126_7E3B6_2024124_162942.jpg" group-title="Vod Melayu",No Return E05
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/b19a65b6-794f-517d-8f2a-629772429eb8/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct","k":"Qbq2H8/oTdPY4ahYwO3clA","kid":"gBRTbHgWjzquNrwzio6JEA" }],"type":"temporary"}
+#EXTINF:-1 type="series" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KPKOL_p_IVP_PORT_750x1126_7E3B6_2024124_162942.jpg" group-title="Vod Melayu",No Return E06
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/d3fff1bc-f476-5ba0-9561-f037934b9835/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct","k":"RxToWekzmMQBgpXBIvaB/g","kid":"ZTgke/FlLIQuRcloUgGKEA" }],"type":"temporary"}
+#EXTINF:-1 type="series" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KPKOL_p_IVP_PORT_750x1126_7E3B6_2024124_162942.jpg" group-title="Vod Melayu",No Return E07
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/54498f7f-3429-5c02-984e-b9cde00193a9/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct","k":"J8O97cogRcci34qmnxA95Q","kid":"vQ5RfOkEiba6k/xxS7kyEA" }],"type":"temporary"}
+#EXTINF:-1 type="series" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KPKOL_p_IVP_PORT_750x1126_7E3B6_2024124_162942.jpg" group-title="Vod Melayu",No Return E08
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/5ced637e-fee3-5b37-9f19-bb031bdd4219/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct","k":"s+RMcx7k1GETnCZFD8X28Q","kid":"r7ymaFtluaYzyek+FuWqEA" }],"type":"temporary"}
+#EXTINF:-1 type="series" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KPKOL_p_IVP_PORT_750x1126_7E3B6_2024124_162942.jpg" group-title="Vod Melayu",No Return E09
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/b83c1148-4c0b-5ecd-b16a-eb8202eedbe9/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct","k":"cjQCcNVvQV+7GBTK3FdSVA","kid":"KSIksi73Y/DffowZGTcXEA" }],"type":"temporary"}
+#EXTINF:-1 type="series" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KPKOL_p_IVP_PORT_750x1126_7E3B6_2024124_162942.jpg" group-title="Vod Melayu",No Return E10
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/0ceb7a2f-9edb-537a-a004-94ff673aa7e6/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct","k":"BYp9smmeOm/xJLy6DqKKjA","kid":"Rb0yDq+W/jgxSusaCrexEA" }],"type":"temporary"}
+#EXTINF:-1 type="series" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KPKOL_p_IVP_PORT_750x1126_7E3B6_2024124_162942.jpg" group-title="Vod Melayu",No Return E11
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/de1d557a-fa08-5d0d-8758-0316b4f5c3e2/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct","k":"ewAzE2fNtOEwd8lOXgx2jQ","kid":"agbwjyldMkpw9bnikd/nEA" }],"type":"temporary"}
+#EXTINF:-1 type="series" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KPKOL_p_IVP_PORT_750x1126_7E3B6_2024124_162942.jpg" group-title="Vod Melayu",No Return E12
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/a87d57fd-4289-5f33-8e22-0da93a61bf62/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct","k":"jh5cbAwcbhzD9HaWBl/vMA","kid":"UlKsmfgjdF6MqMjP0XtLEA" }],"type":"temporary"}
+#EXTINF:-1 type="series" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KPKOL_p_IVP_PORT_750x1126_7E3B6_2024124_162942.jpg" group-title="Vod Melayu",No Return E13
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/ba0f91ab-55e1-532c-9940-653b11e51b86/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct","k":"sTnu1Eym7lGvDuc/F+EOkA","kid":"h69rCnmhejoYlbVJwocUEA" }],"type":"temporary"}
+#EXTINF:-1 type="series" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KPKOL_p_IVP_PORT_750x1126_7E3B6_2024124_162942.jpg" group-title="Vod Melayu",No Return E14
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/cb61748b-a848-59de-bab7-ac86a366eae9/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct","k":"fbCHV5tsuWgPuEr6atD0RA","kid":"FQn9gT3FbOSejFhsCwmrEA" }],"type":"temporary"}
+#EXTINF:-1 type="series" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KPKOL_p_IVP_PORT_750x1126_7E3B6_2024124_162942.jpg" group-title="Vod Melayu",No Return E15
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/fb52b5f7-9cac-50e8-9b4d-38a2158b830e/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct","k":"/Q5Xwbz/AGtFBJ5ljP/fZA","kid":"V4/SZ7kvlV+14iIVMm9ZEA" }],"type":"temporary"}
+#EXTINF:-1 type="series" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KPKOL_p_IVP_PORT_750x1126_7E3B6_2024124_162942.jpg" group-title="Vod Melayu",No Return E16
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/a42fe81b-e734-5221-9db5-f9ae34d35079/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct","k":"pHcTSqr5NJ+4g+/5wyiEWQ","kid":"A1Jy5bEGsIurivvsyOYPEA" }],"type":"temporary"}
+#EXTINF:-1 type="series" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KPKOL_p_IVP_PORT_750x1126_7E3B6_2024124_162942.jpg" group-title="Vod Melayu",No Return E17
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/b935bc7c-9a21-5ed7-b226-d5b1f5861814/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct","k":"HDEWUlx5V83oibzWZJCpPg","kid":"sATd+HgYo4VM105ElHNnEA" }],"type":"temporary"}
+#EXTINF:-1 type="series" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KPKOL_p_IVP_PORT_750x1126_7E3B6_2024124_162942.jpg" group-title="Vod Melayu",No Return E18
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/1a3bb1d2-9f54-54d0-95d2-233e479f2f6a/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct","k":"ZkzXkpnmpQ+1KbjNkkTLYQ","kid":"t2ZGGrxTej+Klls96ecHEA" }],"type":"temporary"}
+#EXTINF:-1 type="series" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KPKOL_p_IVP_PORT_750x1126_7E3B6_2024124_162942.jpg" group-title="Vod Melayu",No Return E19
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/b522e3e9-b17a-5141-a607-000c5c79ac8c/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct","k":"NKjLMPfWEDVbzYdCn9QetA","kid":"/XA5a/chbWdSZyC5l9h4EA" }],"type":"temporary"}
+#EXTINF:-1 type="series" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KPKOL_p_IVP_PORT_750x1126_7E3B6_2024124_162942.jpg" group-title="Vod Melayu",No Return E20
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/c821085a-d62e-52c6-8bc1-0871fccdabe9/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct","k":"xQecN6uMh5hpHJIIiGVVDA","kid":"119KAgKWekmgV7RDdoM4EA" }],"type":"temporary"}
+#EXTINF:-1 type="series" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KPKOL_p_IVP_PORT_750x1126_7E3B6_2024124_162942.jpg" group-title="Vod Melayu",No Return E21
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/8f42cfb9-b0ca-5b81-9e94-e6b8e8d2d02f/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct","k":"dUgGv++NV4effCVlFwtU8w","kid":"BVFEYh+hZnKCWC+2bpK+EA" }],"type":"temporary"}
+#EXTINF:-1 type="series" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KPKOL_p_IVP_PORT_750x1126_7E3B6_2024124_162942.jpg" group-title="Vod Melayu",No Return E22
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/8bb9a7b3-c3e6-553e-9dd4-962f17929b7a/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct","k":"YcTjiqCB12tw1IJecx58hw","kid":"lvWNjAiBO6R6vciTm1rwEA" }],"type":"temporary"}
+#EXTINF:-1 type="series" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KPKOL_p_IVP_PORT_750x1126_7E3B6_2024124_162942.jpg" group-title="Vod Melayu",No Return E23
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/a4f0538a-7bbd-5389-b5cc-e3474c958cca/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct","k":"GT7ExU1i8ZyYnUOQYaJIZw","kid":"h8/D6oAFnlsUvGsIxlsEEA" }],"type":"temporary"}
+#EXTINF:-1 type="series" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KPKOL_p_IVP_PORT_750x1126_7E3B6_2024124_162942.jpg" group-title="Vod Melayu",No Return E24
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/f3bf1f6e-5851-57c9-b12d-8f5a66716b64/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct","k":"CEumSWGHF4BxgwQ9eRIFcw","kid":"WxEzoR6TIRhHWEteorGFEA" }],"type":"temporary"}
+#EXTINF:-1 type="series" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KPKOL_p_IVP_PORT_750x1126_7E3B6_2024124_162942.jpg" group-title="Vod Melayu",No Return E25
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/137536fb-42eb-5ed7-879e-d953ffcfe253/default_primary.mpd
+
+###[No Return][astro.com.my_47_PACK0000000000517046]###
+
 ###[Kill Me Love Me][astro.com.my_47_PACK0000000000518385]###
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
