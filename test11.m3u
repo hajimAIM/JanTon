@@ -5,7 +5,7 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=94bfaa51ce3c4acfb8a8d5a7229316b6:1bc4bd67943da9eae142af71e31727af
 #EXTINF:-1 tvg-id="Inspirasi" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/571B75B0-7857-425F-BB88-9D8E12E7903B/0-16x9.png?width=160&updatedTime=0&dt=Web" group-title="UNIFI", Inspirasi
-https://unifi.whacat.tech/Inspirasi
+https://kennedy-drums-isbn-cooked.trycloudflare.com/Inspirasi
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
