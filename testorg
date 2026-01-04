@@ -1,0 +1,480 @@
+#EXTM3U
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"G8S9Z5Q9qerhQq9x4xcnrw","kid":"lL+qUc48Ss+4qNWnIpMWtg"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="Inspirasi" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/571B75B0-7857-425F-BB88-9D8E12E7903B/0-16x9.png?width=160&updatedTime=0&dt=Web" group-title="UNIFI", Inspirasi
+https://unifi.whacat.tech/Inspirasi
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"7batvjFgkibnN+UVuoExaQ","kid":"a6JwAm8KSymVas5RM1+xrA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="Sensasi" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/8F641B7A-CC55-497E-9C73-B1F10ADA7541/0-16x9.png?width=160&updatedTime=0&dt=Web" group-title="UNIFI", Sensasi
+https://unifi.whacat.tech/Sensasi
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"whs2mRsokAqA3AoUa+6skA","kid":"oWI7dm5LSOuIzqKeHDCcxw"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="DEGUP" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/07A79742-0FA2-4DD8-8F98-929157AE96DF/0-16x9.png?width=160&updatedTime=0&dt=Web" group-title="UNIFI", DEGUP
+https://unifi.whacat.tech/DEGUP
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="TV1" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/F01074B2-F6DD-441B-9477-1DF50C081978/0-16x9.png?width=160&updatedTime=0&dt=Web" group-title="UNIFI", TV1
+https://unifi.whacat.tech/TV1
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="TV2" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/907F5B90-0688-4EC2-ABEF-A69F7C842287/0-16x9.png?width=160&updatedTime=0&dt=Web" group-title="UNIFI", TV2
+https://unifi.whacat.tech/TV2
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"PWOFXKXN/Pt2XzBrmLzGRg","kid":"zkNkGgYaRPudldmGz8mmjw"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="TV3" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/AED0C736-D2D2-4E97-B2F6-4FF4A0ACE765/0-16x9.png?width=160&updatedTime=0&dt=Web" group-title="UNIFI", TV3
+https://unifi.whacat.tech/TV3
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"lanf1UO4l/jt6/bbMod9eQ","kid":"b5vQAwSjSXKoDl/3mv+YLw"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="Didik" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/4504543C-34AB-456E-940F-72431972DC9C/0-16x9.png?width=160&updatedTime=0&dt=Web" group-title="UNIFI", Didik
+https://unifi.whacat.tech/Didik
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"chX2a5w+jEFmuLRYbR++_Q","kid":"2hyyT1XbSuGzIxnDZZIFOQ"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="8TV" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/9C66E114-6607-4EB2-9F11-DE0F25C161EE/0-16x9.png?width=160&updatedTime=0&dt=Web" group-title="UNIFI", 8TV
+https://unifi.whacat.tech/8TV
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"JQYFw9lzT3d36cRv5aaxdg","kid":"7qCCjDjXRAdlw4Stcw1yJA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="TV9" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/01A5D01A-1DAE-4E0F-8003-0B570E9F474E/0-16x9.png?width=160&updatedTime=0&dt=Web" group-title="UNIFI", TV9
+https://unifi.whacat.tech/TV9
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"l0g5/Vg5Ok4WsH1wJ7BYaA","kid":"MrLnF2GvRkGQDxffA8SMsg"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="Salam" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/01A5D01A-1DAE-4E0F-8003-0B570E9F474E/0-16x9.png?width=160&updatedTime=0&dt=Web" group-title="UNIFI", Salam
+https://unifi.whacat.tech/Salam
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"6xInYLutAYl0aJzhNyvOJg","kid":"82Zc4J/LSSKWAtRdHVvk1A"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="TVAL" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/F4935E21-02B4-4697-BEC4-671EB6034217/0-16x9.png?width=160&updatedTime=0&dt=Web" group-title="UNIFI", TVAL
+https://unifi.whacat.tech/TVAL
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"JKzUn6iqalUy3QRbqx9T5A","kid":"VIn1jGStQNukccixwmk+Kg"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="SIAR" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/F101B330-8D9C-4670-9DE3-2C53E8866EA0/0-16x9.png?width=160&updatedTime=0&dt=Web" group-title="UNIFI", SIAR
+https://unifi.whacat.tech/SIAR
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"uc59xhajmH4riQDORHNbBw","kid":"/mxDlh6oQB6Oi8IRsRl5YQ"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="TVS" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/2BE028DB-08C8-437F-BB78-93DEC3F03786/0-16x9.png?width=160&updatedTime=0&dt=Web" group-title="UNIFI", TVS
+https://unifi.whacat.tech/TVS
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"l1pIPfQiRV28KaHYPtbxVA","kid":"AaF2JXAeRzSwKqIshelf1g"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="DuniaSin" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/66BD76C5-BEFD-476A-9688-87AFCE8E8526/0-16x9.png?width=160&updatedTime=0&dt=Web" group-title="UNIFI", DuniaSin
+https://unifi.whacat.tech/DuniaSin
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"gEEZsSj1/lHbQxHrizxwxQ","kid":"1qIhHP+VRZefbxoJhR+klQ"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="Pesona" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/4BDA018A-6442-4561-85D4-CD8333CA2560/0-16x9.png?width=160&updatedTime=0&dt=Web" group-title="UNIFI", Pesona
+https://unifi.whacat.tech/Pesona
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"qjUT3wvC2UnuRMUiBGZdUA","kid":"UkgLZlHCQ+K0iwSrPs8F7A"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="tVnM" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/8D56EE30-95BC-4047-B13F-CF2E5C5F84F8/0-16x9.png?width=160&updatedTime=0&dt=Web" group-title="UNIFI", tVnM
+https://unifi.whacat.tech/tVnM
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"0SZudH4kEzmlOeVPJokehg","kid":"kl/hJm23RKO5Ukojo2xSSw"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="tVNHD" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/E81EA250-61A3-4778-9E6D-4648A2E391A1/0-16x9.png?width=160&updatedTime=0&dt=Web" group-title="UNIFI", tVNHD
+https://unifi.whacat.tech/tVNHD
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"aCc2Vnvl8sCgrmEg0GpZ1w","kid":"mKd3fESeQR+Vo0QaAUtDyw"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="tvbjade" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/EA67DBDB-6A52-4D0C-A0ED-F390183F0E70/0-16x9.png?width=160&updatedTime=0&dt=Web" group-title="UNIFI", tvbjade
+https://unifi.whacat.tech/tvbjade
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"JIyE5w/TYORQBnYrqtEuzA","kid":"9FSM5ppxSUe3zDl6ZOMROQ"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="tvbxinghe" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/B7509514-749E-4782-9521-8A07E81A07B2/0-16x9.png?width=160&updatedTime=0&dt=Web" group-title="UNIFI", tvbxinghe
+https://unifi.whacat.tech/tvbxinghe
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ApxxV2kXXmoHObBz5KcLvw","kid":"YfVrrI1tToGMTL+5CZq95g"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="CCTV4" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/E5BD5F84-8278-4B7C-95EA-E7057B0B3233/0-16x9.png?width=160&updatedTime=0&dt=Web" group-title="UNIFI", CCTV4
+https://unifi.whacat.tech/CCTV4
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"vdjv8O/0dddLbertjFx+aQ","kid":"X5zjcCJ6RgSAIn9UoxEzhg"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="phoenixhongkong" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/8042936E-2929-40C1-8486-463C6FA3DD5F/0-16x9.png?width=160&updatedTime=0&dt=Web" group-title="UNIFI", phoenixhongkong
+https://unifi.whacat.tech/phoenixhongkong
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"/4P6++9X4k/GJqn1icodqQ","kid":"nSZ94qgYRoO9jen/anYbKg"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="Seti" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/D9A91961-CCD2-48BA-A4FD-6EC1ECAF0AFC-123/0-16x9.png?width=160&updatedTime=0&dt=Web" group-title="UNIFI", Seti
+https://unifi.whacat.tech/Seti
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"BEr1ueAlji05Q37gM2X9LQ","kid":"EH4TshOpSmy7bQLCVlPAgw"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="Celestial" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/D9A91961-CCD2-48BA-A4FD-6EC1ECAF0AFC/0-16x9.png?width=160&updatedTime=0&dt=Web" group-title="UNIFI", Celestial
+https://unifi.whacat.tech/Celestial
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"zauMwHlVp6LqeLAzQ7d/vQ","kid":"Xcx7AK3XRWGf8d0prH5ZFQ"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="CelestialC" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/6C8CF795-8ABE-40AF-A6D5-C0CE552D2C39/0-16x9.png?width=160&updatedTime=0&dt=Web" group-title="UNIFI", CelestialC
+https://unifi.whacat.tech/CelestialC
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mXYzcPB2Ow9xGaqwkcxwyA","kid":"vXKC6SDlQ3qbHwG8b4F5XA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="ZeeThi" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/AED0C736-D2D2-4E97-B2F6-4FF4A0ACE765/0-16x9.png?width=160&updatedTime=0&dt=Web" group-title="UNIFI", ZeeThi
+https://unifi.whacat.tech/ZeeThi
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"wPVQg5sjVENyTNAHNytuQA","kid":"WC6eOCywSViGr7q9vbb79w"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="SonyYay" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/AED0C736-D2D2-4E97-B2F6-4FF4A0ACE765/0-16x9.png?width=160&updatedTime=0&dt=Web" group-title="UNIFI", SonyYay
+https://unifi.whacat.tech/SonyYay
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"8CxA0gBuA2EE93JhFoYdfA","kid":"BuGDG6b5RlZw3qYuZ8pzFw"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="ZeeTamil" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/AED0C736-D2D2-4E97-B2F6-4FF4A0ACE765/0-16x9.png?width=160&updatedTime=0&dt=Web" group-title="UNIFI", ZeeTamil
+https://unifi.whacat.tech/ZeeTamil
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"t8Twq4vAvU3uq3PPdd+lNw","kid":"Iv389cswTrau6+y7ypydEA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="ZeeCinema" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/AED0C736-D2D2-4E97-B2F6-4FF4A0ACE765/0-16x9.png?width=160&updatedTime=0&dt=Web" group-title="UNIFI", ZeeCinema
+https://unifi.whacat.tech/ZeeCinema
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"cYcWxDWRSQHSVRkwdlaXTg","kid":"etiI7l3WSWqMLHemKE/5Ng"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="HBO" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/AED0C736-D2D2-4E97-B2F6-4FF4A0ACE765/0-16x9.png?width=160&updatedTime=0&dt=Web" group-title="UNIFI", HBO
+https://unifi.whacat.tech/HBO
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"6VBz9xrxD4UGfF2LxQn2Zw","kid":"Q3pKjfsxT4GIPHiUyZ5yvw"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="HBOH" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/AED0C736-D2D2-4E97-B2F6-4FF4A0ACE765/0-16x9.png?width=160&updatedTime=0&dt=Web" group-title="UNIFI", HBOH
+https://unifi.whacat.tech/HBOH
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"O2Me8GwngoCKbVP/DiTZ4w","kid":"mOglX66bQaqzM0ZFqRbIKw"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="HBOF" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/AED0C736-D2D2-4E97-B2F6-4FF4A0ACE765/0-16x9.png?width=160&updatedTime=0&dt=Web" group-title="UNIFI", HBOF
+https://unifi.whacat.tech/HBOF
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"HqU8JHsRXWw7s3pNBIWjfA","kid":"uDORwPfGQUK6oyaxAcnz1A"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="Cinemax" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/AED0C736-D2D2-4E97-B2F6-4FF4A0ACE765/0-16x9.png?width=160&updatedTime=0&dt=Web" group-title="UNIFI", Cinemax
+https://unifi.whacat.tech/Cinemax
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"txz6RZCFPqYwFOEo7NtPvg","kid":"dOy5Kc1QQUO7aL0OfKxvTg"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="hitsM" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/AED0C736-D2D2-4E97-B2F6-4FF4A0ACE765/0-16x9.png?width=160&updatedTime=0&dt=Web" group-title="UNIFI", hitsM
+https://unifi.whacat.tech/hitsM
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"sCIInmGizb9bCUQMwxV/BA","kid":"b06nvkWvQnWo12hF+xnboQ"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="WarnerTV" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/AED0C736-D2D2-4E97-B2F6-4FF4A0ACE765/0-16x9.png?width=160&updatedTime=0&dt=Web" group-title="UNIFI", WarnerTV
+https://unifi.whacat.tech/WarnerTV
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"lGmrGD+WWJTgOOLBN/D6oA","kid":"TDUCMtUPRty3duptEvh10g"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="hitsnow" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/AED0C736-D2D2-4E97-B2F6-4FF4A0ACE765/0-16x9.png?width=160&updatedTime=0&dt=Web" group-title="UNIFI", hitsnow
+https://unifi.whacat.tech/hitsnow
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"xn9uIeu9Ug4x1BQbdx04Zw","kid":"Q0U0DZLWR4i+99mVlMvmQw"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="AXN" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/AED0C736-D2D2-4E97-B2F6-4FF4A0ACE765/0-16x9.png?width=160&updatedTime=0&dt=Web" group-title="UNIFI", AXN
+https://unifi.whacat.tech/AXN
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"hiBkwwvfVNLjqee4mImgaw","kid":"GWsBEwbQSsOMK4STuJpA1Q"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="HITS" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/AED0C736-D2D2-4E97-B2F6-4FF4A0ACE765/0-16x9.png?width=160&updatedTime=0&dt=Web" group-title="UNIFI", HITS
+https://unifi.whacat.tech/HITS
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"F2iXr7B54Mx2vJEt9MsLbg","kid":"gm5/0tahQGC/6pNH2W+IJA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="Kplus" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/AED0C736-D2D2-4E97-B2F6-4FF4A0ACE765/0-16x9.png?width=160&updatedTime=0&dt=Web" group-title="UNIFI", Kplus
+https://unifi.whacat.tech/Kplus
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"+Msk5U1VU4GjJsFXtd+qWQ","kid":"S9MOVFcRROuRaKGn5ZFfdQ"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="Animax" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/AED0C736-D2D2-4E97-B2F6-4FF4A0ACE765/0-16x9.png?width=160&updatedTime=0&dt=Web" group-title="UNIFI", Animax
+https://unifi.whacat.tech/Animax
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"nrMWVkUj+uz31bL+8IgQBw","kid":"ar4w3H15SYSboMTyq7Kj/w"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="RockEnt" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/AED0C736-D2D2-4E97-B2F6-4FF4A0ACE765/0-16x9.png?width=160&updatedTime=0&dt=Web" group-title="UNIFI", RockEnt
+https://unifi.whacat.tech/RockEnt
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Lz9fHGCcESAhbU1yN30awg","kid":"xkz5EVBeQsiqF4aa5RIGug"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="RockAction" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/AED0C736-D2D2-4E97-B2F6-4FF4A0ACE765/0-16x9.png?width=160&updatedTime=0&dt=Web" group-title="UNIFI", RockAction
+https://unifi.whacat.tech/RockAction
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"1foOxoxqfIbBn2MM/TU2Bg","kid":"U4G4BVRHRNi2NE3lZNM39Q"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="BBCEarth" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/AED0C736-D2D2-4E97-B2F6-4FF4A0ACE765/0-16x9.png?width=160&updatedTime=0&dt=Web" group-title="UNIFI", BBCEarth
+https://unifi.whacat.tech/BBCEarth
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ZQTTrEqSp9DQ02gY9HfK5A","kid":"OvJAf5NmQnKisMJL42Mtkw"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="LoveNature" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/AED0C736-D2D2-4E97-B2F6-4FF4A0ACE765/0-16x9.png?width=160&updatedTime=0&dt=Web" group-title="UNIFI", LoveNature
+https://unifi.whacat.tech/LoveNature
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"VRzFvmggpbRNCZ3HrBd/8A","kid":"FDxTelM7TlOnE3cDvJLA8g"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="HGTV" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/AED0C736-D2D2-4E97-B2F6-4FF4A0ACE765/0-16x9.png?width=160&updatedTime=0&dt=Web" group-title="UNIFI", HGTV
+https://unifi.whacat.tech/HGTV
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"EuiqrP8Pwr14AFilxog6HA","kid":"JhDGW/J3QOKfnMQdw1SXgQ"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="BBCLife" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/AED0C736-D2D2-4E97-B2F6-4FF4A0ACE765/0-16x9.png?width=160&updatedTime=0&dt=Web" group-title="UNIFI", BBCLife
+https://unifi.whacat.tech/BBCLife
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"u9MZ02wXKKjkzGu0qK0S9A","kid":"1vaWEenpShy6WR+FWxkTYg"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="AsianFoodNetwork" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/AED0C736-D2D2-4E97-B2F6-4FF4A0ACE765/0-16x9.png?width=160&updatedTime=0&dt=Web" group-title="UNIFI", AsianFoodNetwork
+https://unifi.whacat.tech/AsianFoodNetwork
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"HS12dB6CXlx7q/WXN0sBbg","kid":"6M417YvDR3Kr7dYzg6oRtw"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="Dreamworks" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/AED0C736-D2D2-4E97-B2F6-4FF4A0ACE765/0-16x9.png?width=160&updatedTime=0&dt=Web" group-title="UNIFI", Dreamworks
+https://unifi.whacat.tech/Dreamworks
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"1Nxi4R3RhW7U+aJtRCcdCw","kid":"wxiUV7OLSdmIjFoudj8KuA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="Moonbug" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/AED0C736-D2D2-4E97-B2F6-4FF4A0ACE765/0-16x9.png?width=160&updatedTime=0&dt=Web" group-title="UNIFI", Moonbug
+https://unifi.whacat.tech/Moonbug
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"jnx/a+sHTxU9obAMPPlZCA","kid":"/mA4Xak+SM2p3OLGhoYkYg"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="Nickjr" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/AED0C736-D2D2-4E97-B2F6-4FF4A0ACE765/0-16x9.png?width=160&updatedTime=0&dt=Web" group-title="UNIFI", Nickjr
+https://unifi.whacat.tech/Nickjr
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"1IxhBEzvUa2zO/aZnyPpZw","kid":"zFvb0CT+RWumYTRx5JMQQQ"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="Cbeebies" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/AED0C736-D2D2-4E97-B2F6-4FF4A0ACE765/0-16x9.png?width=160&updatedTime=0&dt=Web" group-title="UNIFI", Cbeebies
+https://unifi.whacat.tech/Cbeebies
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"fX03k+RIn268UNAOS9vdRA","kid":"mxDnhtrIT/SEyMfX92aJJQ"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/AED0C736-D2D2-4E97-B2F6-4FF4A0ACE765/0-16x9.png?width=160&updatedTime=0&dt=Web" group-title="UNIFI", Nickelodeon
+https://unifi.whacat.tech/Nickelodeon
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"aIwAFaa0hj8GY/JfQgNoAA","kid":"LaJnXG2jQlOzdjGO81DPGQ"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="CartoonNet" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/AED0C736-D2D2-4E97-B2F6-4FF4A0ACE765/0-16x9.png?width=160&updatedTime=0&dt=Web" group-title="UNIFI", CartoonNet
+https://unifi.whacat.tech/CartoonNet
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"9CKGHCdUJQ40hmsc0pH0EQ","kid":"AoL1zDiUS/WNj92avDEjOQ"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="BBCW" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/AED0C736-D2D2-4E97-B2F6-4FF4A0ACE765/0-16x9.png?width=160&updatedTime=0&dt=Web" group-title="UNIFI", BBCW
+https://unifi.whacat.tech/BBCW
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"oFXKCFGmHCkzJDtxab5meQ","kid":"tcBnja0IRR6VWlPulZ/zDw"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="AlJazeera" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/AED0C736-D2D2-4E97-B2F6-4FF4A0ACE765/0-16x9.png?width=160&updatedTime=0&dt=Web" group-title="UNIFI", AlJazeera
+https://unifi.whacat.tech/AlJazeera
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"u49yyWBlVcpLOGuurMMAsA","kid":"1n1YXvKrTxyI8zUg6wb6dw"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="CGTN" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/AED0C736-D2D2-4E97-B2F6-4FF4A0ACE765/0-16x9.png?width=160&updatedTime=0&dt=Web" group-title="UNIFI", CGTN
+https://unifi.whacat.tech/CGTN
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"V6zgY4rvA5xz8jBWrdh3gQ","kid":"Vdo7egSzTZOizgxOPTOmzQ"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="CAN" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/AED0C736-D2D2-4E97-B2F6-4FF4A0ACE765/0-16x9.png?width=160&updatedTime=0&dt=Web" group-title="UNIFI", CAN
+https://unifi.whacat.tech/CAN
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ncWxTafDwNidY72SQsLasA","kid":"Z/SUjNr6Ruup0eroZSNwIw"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="EuroN" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/AED0C736-D2D2-4E97-B2F6-4FF4A0ACE765/0-16x9.png?width=160&updatedTime=0&dt=Web" group-title="UNIFI", EuroN
+https://unifi.whacat.tech/EuroN
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"V6UUfIU32Mf+rUSNKpWHxw","kid":"DFiL0UoQSe6gTbnupg5saA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="bernama" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/AED0C736-D2D2-4E97-B2F6-4FF4A0ACE765/0-16x9.png?width=160&updatedTime=0&dt=Web" group-title="UNIFI", bernama
+https://unifi.whacat.tech/bernama
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"CGwK1w2Qu9njlHjdDCRgsA","kid":"3ObLM4kBRoS7q8gvakfL/w"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="parlimen" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/AED0C736-D2D2-4E97-B2F6-4FF4A0ACE765/0-16x9.png?width=160&updatedTime=0&dt=Web" group-title="UNIFI", parlimen
+https://unifi.whacat.tech/parlimen
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"HbdcLlT/UoBthK9kSZaF/w","kid":"pjSdIWVRT6OPtvE0hnm6Ng"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="ABC" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/AED0C736-D2D2-4E97-B2F6-4FF4A0ACE765/0-16x9.png?width=160&updatedTime=0&dt=Web" group-title="UNIFI", ABC
+https://unifi.whacat.tech/ABC
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"HzJq8WRflsCZOxQuV9uatw","kid":"aNLey5exQ3+ymSIzOJLK6A"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="DW" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/AED0C736-D2D2-4E97-B2F6-4FF4A0ACE765/0-16x9.png?width=160&updatedTime=0&dt=Web" group-title="UNIFI", DW
+https://unifi.whacat.tech/DW
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"YCYXx3t4eyQDCFZ/HwTfIA","kid":"vR5HO0+sTBO2vXMBTBTfTg"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="NHK" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/AED0C736-D2D2-4E97-B2F6-4FF4A0ACE765/0-16x9.png?width=160&updatedTime=0&dt=Web" group-title="UNIFI", NHK
+https://unifi.whacat.tech/NHK
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"SvhCua1TFaAddlW4tQIZbw","kid":"kMfrXWa0QqmlkXdcwRVLyQ"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="unifi1" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/AED0C736-D2D2-4E97-B2F6-4FF4A0ACE765/0-16x9.png?width=160&updatedTime=0&dt=Web" group-title="UNIFI", unifi1
+https://unifi.whacat.tech/unifi1
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"0Hxqfws3pAkDQeY4D/hQYA","kid":"W1k71TDxQDqPPrmyzZI2yA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="spoTV" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/AED0C736-D2D2-4E97-B2F6-4FF4A0ACE765/0-16x9.png?width=160&updatedTime=0&dt=Web" group-title="UNIFI", spoTV
+https://unifi.whacat.tech/spoTV
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"PcQLxarwmii1VyZGpFsSQg","kid":"GvB5+44dQ9iQwdgEQxrYTA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="spoTV2" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/AED0C736-D2D2-4E97-B2F6-4FF4A0ACE765/0-16x9.png?width=160&updatedTime=0&dt=Web" group-title="UNIFI", spoTV2
+https://unifi.whacat.tech/spoTV2
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"6XdMQfnpSSc6BysOA1Bwqw","kid":"1ItgiCU8RD65TSfLeCj3Bw"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="Bein1" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/AED0C736-D2D2-4E97-B2F6-4FF4A0ACE765/0-16x9.png?width=160&updatedTime=0&dt=Web" group-title="UNIFI", Bein1
+https://unifi.whacat.tech/Bein1
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"XQ9Ei1KpIDXjdjxKYCdZMw","kid":"76b/Gs76QwSOi3rcIdmIcQ"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="Bein2" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/AED0C736-D2D2-4E97-B2F6-4FF4A0ACE765/0-16x9.png?width=160&updatedTime=0&dt=Web" group-title="UNIFI", Bein2
+https://unifi.whacat.tech/Bein2
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ynZKmXO2EjoREsz9OzIBDQ","kid":"gW7i98GfSe2EJ280VBtGWw"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="Bein3" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/AED0C736-D2D2-4E97-B2F6-4FF4A0ACE765/0-16x9.png?width=160&updatedTime=0&dt=Web" group-title="UNIFI", Bein3
+https://unifi.whacat.tech/Bein3
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"K2z/Qvf65+i8MvPVxi3Dwg","kid":"1WH/l2OXRz6bRWtEzf/N0g"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="Bein4" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/AED0C736-D2D2-4E97-B2F6-4FF4A0ACE765/0-16x9.png?width=160&updatedTime=0&dt=Web" group-title="UNIFI", Bein4
+https://unifi.whacat.tech/Bein4
