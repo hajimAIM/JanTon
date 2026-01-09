@@ -4,7 +4,7 @@
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"G8S9Z5Q9qerhQq9x4xcnrw","kid":"lL-qUc48Ss-4qNWnIpMWtg"}],"type":"temporary"}
-#EXTINF:-1 tvg-id="118.unifi" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/571B75B0-7857-425F-BB88-9D8E12E7903B/0-16x9.png?width=160&updatedTime=0&dt=Web" group-title="UNIFI" group-logo="https://unifi.com.my/tv/tv/assets_r/images/unifi-tv-logo-2.png",Inspirasi
+#EXTINF:-1 tvg-id="118.unifi" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/571B75B0-7857-425F-BB88-9D8E12E7903B/0-16x9.png?width=160&updatedTime=0&dt=Web" group-title="UNIFI" group-logo="https://unifi.com.my/tv/tv/assets_r/images/unifi-tv-logo-2.png", Inspirasi
 https://unifi.whacat.tech/Inspirasi
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
